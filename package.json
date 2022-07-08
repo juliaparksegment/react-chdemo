@@ -1,7 +1,7 @@
 {
   "name": "react-example",
   "version": "0.1.0",
-  "homepage": "http://juliaparksegment.github.io/react-chdemo/",
+  "homepage": "https://juliaparksegment.github.io/react-chdemo/",
   "private": true,
   "dependencies": {
     "@atlaskit/code": "^14.3.5",
